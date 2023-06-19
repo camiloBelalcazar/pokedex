@@ -1,0 +1,30 @@
+.true {
+  background-color: rgb(71, 70, 70);
+}
+.true p {
+  color: rgb(255, 255, 255);
+}
+
+.true h4 {
+  color: white;
+}
+
+.true h2 {
+  color: white;
+}
+
+.true h5 {
+  color: white
+}
+
+.true span {
+  color: rgb(255, 251, 251);
+}
+
+.false {
+  background-color: white;
+}
+.styleBackground {
+  margin-left: 90%;
+  padding: 20px;
+}
